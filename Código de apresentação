@@ -1,7 +1,8 @@
 #apresentação
+#python
+
 print("Olá!")
-print("Gostaria de saber algo sobre o perfil marcel mess?")
-print("Posso apresentar informações sobre 'identidade' e 'programação', caso digite tais termos no console.")
+print("Gostaria de saber algo sobre o perfil marcel mess? Posso apresentar informações sobre 'identidade' e 'programação', caso digite tais termos no console.")
 print("Se não for o caso, digite 'sair'")
 
 #todas possibilidades de texto
